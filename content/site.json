@@ -1,30 +1,90 @@
 {
   "brand": {
-    "name": "Your Business",
-    "tagline": "A simple, honest landing page",
-    "description": "Replace this with your business description."
+    "name": "The Pizza Bros",
+    "tagline": "Proper Pizza. Made With Love.",
+    "description": "THE PIZZA BROS is your new local favourite — two mates who live and breathe pizza, serving up fresh-out-of-the-oven slices that'll have you coming back every single week. No fuss, no fluff. Just proper pizza."
   },
   "palette": {
-    "primary": "#111827",
-    "accent": "#6b7280",
-    "background": "#f9fafb",
-    "foreground": "#0f172a"
+    "primary": "#C0392B",
+    "accent": "#1A1A1A",
+    "background": "#FAF6F0",
+    "foreground": "#1A1A1A"
   },
   "hero": {
-    "headline": "Tell people what you do, plainly.",
-    "subhead": "Then tell them how to get in touch.",
-    "ctaLabel": "Get in touch",
-    "ctaHref": "#contact"
+    "headline": "Come Hungry. Leave Happy.",
+    "subhead": "Fresh-out-of-the-oven pizza made with love — because life's too short for average slices.",
+    "ctaLabel": "Find Us on Instagram",
+    "ctaHref": "https://www.instagram.com/pizzabrosau"
   },
   "sections": [
     {
+      "kind": "about",
+      "title": "G'day, We're The Pizza Bros",
+      "body": "We're not here to impress you with fancy words or pretend our pizza is something it's not. It's proper pizza — real dough, real sauce, real toppings — made by two blokes who genuinely reckon pizza is the greatest food on earth. Come hungry, bring mates, and find out why we're fast becoming everyone's new local favourite."
+    },
+    {
       "kind": "features",
-      "title": "What we do",
+      "title": "Why The Bros?",
       "items": [
-        { "title": "Thing one", "body": "Brief description." },
-        { "title": "Thing two", "body": "Brief description." },
-        { "title": "Thing three", "body": "Brief description." }
+        {
+          "title": "Fresh Out of the Oven",
+          "body": "Every pizza is made to order and lands on your table (or at your door) straight from a scorching hot oven. No sad, soggy slices here."
+        },
+        {
+          "title": "Made With Love",
+          "body": "This isn't a factory. We actually care what goes into every pizza we make — from the base to the last bit of melted cheese."
+        },
+        {
+          "title": "Unpretentious & Proud",
+          "body": "No tasting notes, no 'curated experiences' — just bold flavours, generous toppings, and a feed that'll have your eyes rolling back."
+        },
+        {
+          "title": "Your New Local Favourite",
+          "body": "Once you've had a Pizza Bros pizza, your old go-to spots start looking a bit average. Don't say we didn't warn ya."
+        }
       ]
+    },
+    {
+      "kind": "menu",
+      "title": "What We're Cooking",
+      "body": "Our menu is all about proper pizza done right. Jump onto our Instagram @pizzabrosau to see the latest pies we're slinging — and trust us, you'll want to screenshot a few.",
+      "items": [
+        {
+          "title": "Classic Pizzas",
+          "body": "The crowd-pleasers. Margherita, pepperoni, BBQ chook — the classics done better than you'd expect."
+        },
+        {
+          "title": "Signature Bros Specials",
+          "body": "This is where we have a bit of fun. Bold combos, generous portions, and the kind of pizzas you'll be telling your mates about."
+        },
+        {
+          "title": "Takeaway & Delivery",
+          "body": "Can't make it in? We've got you. Grab a pizza Bros feed from the comfort of your couch."
+        }
+      ]
+    },
+    {
+      "kind": "testimonials",
+      "title": "What People Are Saying",
+      "items": [
+        {
+          "title": "Absolute legends",
+          "body": "\"Best pizza I've had in ages — fresh, flavourful, and the boys are absolute legends. Already planning my next order.\""
+        },
+        {
+          "title": "My new regular spot",
+          "body": "\"Stumbled across them on Instagram and had to give it a go. Not disappointed. This is my new regular spot, full stop.\""
+        },
+        {
+          "title": "Proper pizza",
+          "body": "\"Finally — proper pizza without all the wank. Come hungry, they don't skimp on toppings.\""
+        }
+      ]
+    },
+    {
+      "kind": "contact",
+      "title": "Track Us Down",
+      "body": "We're best found on Instagram — give us a follow at @pizzabrosau for the latest updates, specials, and enough cheese-pull content to make your day significantly better. Drop us a DM and we'll sort you out."
     }
   ],
   "contact": {
@@ -34,6 +94,6 @@
     "hours": null
   },
   "footer": {
-    "blurb": "Built with Scout."
+    "blurb": "THE PIZZA BROS — Proper pizza, made with love. Follow us @pizzabrosau and come hungry."
   }
 }
