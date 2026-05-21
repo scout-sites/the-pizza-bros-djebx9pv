@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-bg: var(--site-bg);
+  --color-fg: var(--site-fg);
+  --color-primary: var(--site-primary);
+  --color-accent: var(--site-accent);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+body {
+  background: var(--site-bg);
+  color: var(--site-fg);
+  font-family: var(--font-sans);
+}

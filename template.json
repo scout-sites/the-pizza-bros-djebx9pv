@@ -1,0 +1,9 @@
+{
+  "key": "generic-landing",
+  "description": "Single-page marketing landing with hero, feature grid, contact footer.",
+  "contentPath": "content/site.json",
+  "embellishAllowList": [
+    "app/page.tsx",
+    "app/globals.css"
+  ]
+}

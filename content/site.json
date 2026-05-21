@@ -1,0 +1,39 @@
+{
+  "brand": {
+    "name": "Your Business",
+    "tagline": "A simple, honest landing page",
+    "description": "Replace this with your business description."
+  },
+  "palette": {
+    "primary": "#111827",
+    "accent": "#6b7280",
+    "background": "#f9fafb",
+    "foreground": "#0f172a"
+  },
+  "hero": {
+    "headline": "Tell people what you do, plainly.",
+    "subhead": "Then tell them how to get in touch.",
+    "ctaLabel": "Get in touch",
+    "ctaHref": "#contact"
+  },
+  "sections": [
+    {
+      "kind": "features",
+      "title": "What we do",
+      "items": [
+        { "title": "Thing one", "body": "Brief description." },
+        { "title": "Thing two", "body": "Brief description." },
+        { "title": "Thing three", "body": "Brief description." }
+      ]
+    }
+  ],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null,
+    "hours": null
+  },
+  "footer": {
+    "blurb": "Built with Scout."
+  }
+}
